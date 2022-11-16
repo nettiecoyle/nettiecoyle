@@ -1,1 +1,1 @@
-npm update && npm i && node .
+npm update && npm i && npm start
